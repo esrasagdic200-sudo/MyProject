@@ -1,0 +1,14 @@
+﻿# Visual Studio geçici ve kullanıcı dosyaları
+.vs/
+bin/
+obj/
+
+# Node / npm (varsa)
+node_modules/
+
+# Log dosyaları
+*.log
+
+# Kendi gizli ayar dosyaların
+*.user
+*.suo
